@@ -3,10 +3,7 @@ import SectionTag from "../components/SectionTag";
 import Card from "../components/Card";
 import { SUCCESS_STORIES, SUCCESS_METRICS } from "../data/content";
 import { useReveal } from "../lib/useReveal";
-<<<<<<< HEAD
 import SuccessGallery from "../components/SuccessGallery";
-=======
->>>>>>> 85cca9ff3618b8d9068e4762eaf2aa682aa12d87
 
 function initials(name) {
   return name
@@ -40,7 +37,6 @@ export default function SuccessStories() {
           ))}
         </div>
 
-<<<<<<< HEAD
 
         {/* Newly Added Section */}
 
@@ -53,9 +49,7 @@ export default function SuccessStories() {
         </div>
 
         {/* <div className="mt-10 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-4">
-=======
         <div className="mt-10 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-4">
->>>>>>> 85cca9ff3618b8d9068e4762eaf2aa682aa12d87
           {SUCCESS_STORIES.map((s) => (
             <Card key={s.name} data-reveal className="p-6 text-center">
               <div className="mx-auto grid h-16 w-16 place-items-center rounded-full bg-navy-gradient font-display text-lg font-semibold text-gold-300">
@@ -70,11 +64,7 @@ export default function SuccessStories() {
               <p className="text-sm text-muted">{s.school}</p>
             </Card>
           ))}
-<<<<<<< HEAD
         </div> */}
-=======
-        </div>
->>>>>>> 85cca9ff3618b8d9068e4762eaf2aa682aa12d87
 
         <div data-reveal className="mt-10 flex items-center justify-center gap-3 rounded-full bg-gold-100 px-6 py-4 text-center">
           <Trophy className="text-gold-600 shrink-0" size={20} />
