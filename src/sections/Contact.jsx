@@ -73,7 +73,11 @@ export default function Contact() {
             </div>
           </div>
 
+<<<<<<< HEAD
           {/* <Card data-reveal className="p-7 sm:p-9">
+=======
+          <Card data-reveal className="p-7 sm:p-9">
+>>>>>>> 85cca9ff3618b8d9068e4762eaf2aa682aa12d87
             <h3 className="text-2xl">Send Us Your Inquiry</h3>
             <p className="mt-1.5 text-[15px] text-muted">
               We will respond quickly with full guidance.
@@ -143,7 +147,11 @@ export default function Contact() {
                 </div>
               </form>
             )}
+<<<<<<< HEAD
           </Card> */}
+=======
+          </Card>
+>>>>>>> 85cca9ff3618b8d9068e4762eaf2aa682aa12d87
         </div>
       </div>
     </section>

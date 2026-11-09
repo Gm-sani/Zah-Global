@@ -12,7 +12,11 @@ export const CONTACT = {
   phoneHref: "tel:+923096881440",
   whatsappHref: "https://wa.me/923096881440",
   email: "info.zahglobaleducation@gmail.com",
+<<<<<<< HEAD
   address: "F3 1st floor  jalal center Allama Iqbal's Town Moon market Lahore",
+=======
+  address: "189 Sutlej Block, Allama Iqbal Town, Lahore, Pakistan",
+>>>>>>> 85cca9ff3618b8d9068e4762eaf2aa682aa12d87
 };
 
 export const WHY_CHOOSE_US = [
